@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Papajo&fontSize=80&fontAlignY=35&animation=twinkling" />
 </div>
 
-<h1 align="center">Hi there 👋, I'm <span style="color: #58a6ff;">Papajo</span></h1>
+<h1 align="center">Hi I'm <span style="color: #58a6ff;">PJ</span></h1>
 
 <h3 align="center">A passionate developer exploring the intersection of code, creativity, and innovation</h3>
 
@@ -19,20 +19,9 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
-username: papajo
-location: From the cloud to the terminal
-occupation: Developer & Builder
-interests:
-  - Full-stack development
-  - Open source
-  - Automation & tooling
-  - System architecture
-currently_learning:
-  - AI/ML integrations
-  - Distributed systems
-  - Cloud-native technologies
-```
+**AI Developer — Building with AI Daily**
+
+AI developer passionate about building intelligent systems. Currently exploring the frontiers of LLM applications, RAG architectures, and multi-agent workflows.
 
 ---
 
