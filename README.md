@@ -21,10 +21,10 @@
 
 **AI Developer — Building with AI Daily**
 
-## AI developer passionate about building intelligent systems. Currently exploring the frontiers of LLM applications, RAG architectures, and multi-agent workflows.
-## What I do for clients: I build AI features into business systems — private document assistants (RAG), AI workflow automation, and legacy-to-modern migration — part-time, remote, in small fixed scopes.
-## 25+ years building custom business applications (C/Unix, IBM mainframe COBOL/DB2/CICS/JCL, then web). Now: Python, TypeScript, and Claude / OpenAI / Gemini APIs.
-## Hire me: [link to Upwork] · Live work: https://aishowcase.qzz.io
+### AI developer passionate about building intelligent systems. Currently exploring the frontiers of LLM applications, RAG architectures, and multi-agent workflows.
+### What I do for clients: I build AI features into business systems — private document assistants (RAG), AI workflow automation, and legacy-to-modern migration — part-time, remote, in small fixed scopes.
+### 25+ years building custom business applications (C/Unix, IBM mainframe COBOL/DB2/CICS/JCL, then web). Now: Python, TypeScript, and Claude / OpenAI / Gemini APIs.
+### Hire me: [link to Upwork] · Live work: https://aishowcase.qzz.io
 ---
 
 ### 🛠️ Tech Stack
