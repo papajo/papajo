@@ -21,10 +21,14 @@
 
 **AI Developer — Building with AI Daily**
 
-### AI developer passionate about building intelligent systems. Currently exploring the frontiers of LLM applications, RAG architectures, and multi-agent workflows.
-### What I do for clients: I build AI features into business systems — private document assistants (RAG), AI workflow automation, and legacy-to-modern migration — part-time, remote, in small fixed scopes.
-### 25+ years building custom business applications (C/Unix, IBM mainframe COBOL/DB2/CICS/JCL, then web). Now: Python, TypeScript, and Claude / OpenAI / Gemini APIs.
-### Hire me: [link to Upwork] · Live work: https://aishowcase.qzz.io
+AI developer building LLM applications, RAG systems, and multi-agent workflows.
+
+**What I do for clients:** I build AI features into business systems — private document assistants (RAG), AI workflow automation, and legacy-to-modern migration — part-time, remote, in small fixed scopes.
+
+**Background:** 25+ years building custom business applications (C/Unix, IBM mainframe COBOL/DB2/CICS/JCL, then web). Now: Python, TypeScript, and Claude / OpenAI / Gemini APIs.
+
+**Hire me:** [Email](mailto:joshipv2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pajo) · **Live work:** [aishowcase.qzz.io](https://aishowcase.qzz.io)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -83,7 +87,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-papajo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/papajo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/papajo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pajo)
 
 </div>
 
