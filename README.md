@@ -27,7 +27,7 @@ AI developer building LLM applications, RAG systems, and multi-agent workflows.
 
 **Background:** 25+ years building custom business applications (C/Unix, IBM mainframe COBOL/DB2/CICS/JCL, then web). Now: Python, TypeScript, and Claude / OpenAI / Gemini APIs.
 
-**Hire me:** [Upwork](https://www.upwork.com/freelancers/pvjoshi) · [Email](mailto:joshipv2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pajo) · **Live work:** [aishowcase.qzz.io](https://aishowcase.qzz.io) · [EHR Selection Workbench](https://ehr-selection-workbench.vercel.app)
+**Hire me:** [Upwork](https://www.upwork.com/freelancers/pvjoshi) · [Email](mailto:joshipv2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pajo) · **Live work:** [aishowcase.qzz.io](https://aishowcase.qzz.io) · [EHR Selection Workbench](https://ehr-selection-workbench.vercel.app) · [Consultant-in-a-Box](https://consultant-in-a-box-inky.vercel.app)
 
 ---
 
